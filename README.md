@@ -1,11 +1,11 @@
-# 📊 R Statistical Modeling Project
+# R Statistical Modeling Project
 
-## 📌 Overview
+## Overview
 This project focuses on statistical analysis using R. It includes modeling real datasets to understand patterns and relationships.
 
 ---
 
-## 🧠 Methods Used
+## Methods Used
 - Poisson Distribution
 - Linear Regression
 - Log Transformation
@@ -13,16 +13,16 @@ This project focuses on statistical analysis using R. It includes modeling real 
 
 ---
 
-## 📂 Files
+## Files
 - `statistical-modeling-report.pdf` – Full analysis and results
 
 ---
 
-## ⚙️ Tools
+## Tools
 - R
 - RStudio
 
 ---
 
-## 👩‍💻 Author
+## Author
 Zahra Dasizadeh
